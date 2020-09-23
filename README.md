@@ -7,7 +7,7 @@ The modules implemented in this repo can be applied to any classification task w
 
 ### Example usage on MNIST
 We show how to use the code to reproduce Figure 1 of the paper in the notebook `mgp.ipynb`. 
-The notebook can also be directly run on [this google colab](https://drive.google.com/file/d/1RgvG7bjaxNkAX6TQcKJz7L3BuAyQsu9J/view?usp=sharing).
+The notebook can also be directly run on [this google colab](https://colab.research.google.com/drive/1VoQfBx5q5lWFev0cwxLZ0qQOZU7Rlmb_#offline=true&sandboxMode=true).
 
 ## Installation
 
